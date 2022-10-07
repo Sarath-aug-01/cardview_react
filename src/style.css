@@ -1,0 +1,44 @@
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    grid-gap: 50px;
+    
+}
+
+.card {
+    display: grid;
+    grid-template-rows: max-content 200px 1fr;
+    background-color: white;
+    border: 10px solid;
+    border-color: blue;
+}
+
+
+.card img {
+    
+    object-fit: cover;
+    width: 50%;
+    height: 100%;
+}
+button {
+    background-color: rgb(124, 17, 239);
+    color: black;
+    border: 2px solid #ce1c0c; /* Green */
+    border-radius: 5%;
+    font-size: 20px;
+  }
+  button:hover {
+    background-color: #22afde;
+    color: white;
+  }
+  button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px rgb(8, 163, 225);
+    transform: translateY(4px);
+  }
+  .count{
+    background-color: #b6eb08;
+    border: 5px solid #ce1c0c;
+    color: black;
+    
+  }
