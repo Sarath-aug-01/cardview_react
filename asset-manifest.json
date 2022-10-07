@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cardview_react/static/css/main.f79adeaf.css",
+    "main.js": "/cardview_react/static/js/main.b95208fc.js",
+    "static/js/787.39997455.chunk.js": "/cardview_react/static/js/787.39997455.chunk.js",
+    "static/media/node.png": "/cardview_react/static/media/node.fec8553a062eb1c472dd.png",
+    "static/media/pic.jpeg": "/cardview_react/static/media/pic.39ae2a79720a0bee2a9f.jpeg",
+    "index.html": "/cardview_react/index.html",
+    "main.f79adeaf.css.map": "/cardview_react/static/css/main.f79adeaf.css.map",
+    "main.b95208fc.js.map": "/cardview_react/static/js/main.b95208fc.js.map",
+    "787.39997455.chunk.js.map": "/cardview_react/static/js/787.39997455.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f79adeaf.css",
+    "static/js/main.b95208fc.js"
+  ]
+}
